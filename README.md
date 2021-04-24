@@ -1,2 +1,2 @@
 # Spring-Boot-Rabbit-MQ-POC
-Proof of Concept of implementing Rabbit MQ using Spring Boot
+Proof of Concept / Demo Code for implementing RabbitMQ using Spring Boot
